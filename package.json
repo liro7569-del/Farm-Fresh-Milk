@@ -4,7 +4,6 @@
   "description": "Farm Fresh Chocolate Milk - Luxury Chilled Dairy Website with Interactive Scroll Animation, Firebase Auth, and Cold-Chain Admin Portal",
   "main": "index.html",
   "scripts": {
-    "build": "echo Static site ready",
     "start": "python server.py",
     "dev": "python server.py"
   },
