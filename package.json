@@ -1,0 +1,21 @@
+{
+  "name": "farm-fresh-chocolate-milk",
+  "version": "1.0.0",
+  "description": "Farm Fresh Chocolate Milk - Luxury Chilled Dairy Website with Interactive Scroll Animation, Firebase Auth, and Cold-Chain Admin Portal",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo Static site ready",
+    "start": "python server.py",
+    "dev": "python server.py"
+  },
+  "keywords": [
+    "farm-fresh",
+    "chocolate-milk",
+    "firebase",
+    "firestore",
+    "canvas-animation",
+    "admin-portal"
+  ],
+  "author": "Farm Fresh Dairy",
+  "license": "MIT"
+}
